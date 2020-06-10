@@ -4,16 +4,20 @@
     border: 2px solid rgb(160, 147, 130);
     box-shadow: 0 2px 8px #00000050;
     padding: 12px 20px 12px 20px;
+    margin: 20px 12% 20px 12%;
+    font-family: "Roboto Slab";
 }
 
 .menu-item .title {
-
+    font-weight: bold;
+    font-size: x-large;
 }
 
 .menu-item .food-description {
-
+    font-size: medium;
 }
 
 .menu-item .price {
     text-align: right;
+    font-size: larger;
 }

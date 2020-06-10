@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Menu Item 1",
+    "food-description": "Delicious food",
+    "price": "7.99$"
+  },
+  {
+    "title": "Menu Item 2",
+    "food-description": "Very Delicious food",
+    "price": "8.99$"
+  },
+  {
+    "title": "Menu Item 3",
+    "food-description": "Good food",
+    "price": "5.98$"
+  }
+]
